@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>1.0.0-rc1</Version>
+    <Version>1.0.0</Version>
     <Description>Implements buffered consumer using System.Threading.Channels.Channel&lt;T&gt;.
 Consumer callback methods are called when buffer limit is reached or time reached flush interval.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
